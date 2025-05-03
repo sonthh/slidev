@@ -1,0 +1,9 @@
+h1 {
+  color: #bd0e72;
+  background-image: linear-gradient(180deg, #bd0e72 10%, #bd0e72 20%);
+  background-size: 100%;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -moz-text-fill-color: transparent;
+}
